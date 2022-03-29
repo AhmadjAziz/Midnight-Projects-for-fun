@@ -1,2 +1,5 @@
 # Midnight-Projects-for-fun
- This repo contains a bunch of small projects I did, mainly for practice. Anyone can use this material. I'll slowly keep updating the ReadME with bulletpoints on whats in here
+The following repo containts small projects I have made, nothing big. Something I do pass time when I can't fall asleep. 
+
+LIST OF PROJECTS
+- YoutubeDownloader - (Executable included)
